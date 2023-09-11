@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3bibesodqtri38w0?svg=true)](https://ci.appveyor.com/project/OlyaMa/clean-func)
